@@ -1,0 +1,23 @@
+{
+  "name": "w3lifer/php-response-interface",
+  "keywords": [
+    "php",
+    "response",
+    "interface"
+  ],
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "w3lifer\\PhpResponseInterface\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roman Grinyov",
+      "email": "w3lifer@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
