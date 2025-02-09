@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace w3lifer\PhpResponseInterface;
 
 class PhpResponseInterface
